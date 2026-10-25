@@ -1,0 +1,6 @@
+{
+  "name": "Maya",
+  "description": "Maya (माया) — Ultra Sweet 9:16 Anime AI Companion & Jarvis-Level Cognitive Partner",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

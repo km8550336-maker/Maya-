@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing AI Heart with Cyber Halo and Sparkles representing Maya -->
+    <!-- Glowing Outer Aura -->
+    <path
+        android:pathData="M54,76 C37,63 26,52 26,38 C26,27 34,20 44,20 C49.5,20 54,23.5 54,23.5 C54,23.5 58.5,20 64,20 C74,20 82,27 82,38 C82,52 71,63 54,76 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="26"
+                android:startY="20"
+                android:endX="82"
+                android:endY="76"
+                android:type="linear">
+                <item android:color="#FFFF2D8D" android:offset="0.0" />
+                <item android:color="#FF8A2BE2" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Jarvis Cognitive Arc / High Tech Halo -->
+    <path
+        android:strokeColor="#FF00F0FF"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M32,32 C38,24 48,22 54,26 C60,22 70,24 76,32" />
+    <!-- AI Sparkle Core -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,34 L56,41 L63,43 L56,45 L54,52 L52,45 L45,43 L52,41 Z" />
+    <path
+        android:fillColor="#FF00F0FF"
+        android:pathData="M68,26 L69,29 L72,30 L69,31 L68,34 L67,31 L64,30 L67,29 Z" />
+</vector>
